@@ -31,7 +31,7 @@ function onKeyDownHandler(e){
   }
 }
 
-body.addEventListener('keydown', onKeyDownHandler)
-function init() {
 
+function init() {
+body.addEventListener('keydown', onKeyDownHandler)
 }
