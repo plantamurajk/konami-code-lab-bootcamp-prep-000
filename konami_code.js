@@ -11,7 +11,7 @@ const codes = [
   "a"
 ];
 
-const body = document.
+const body = document.querySelector('body');
 
 let index = 0;
 
