@@ -11,6 +11,8 @@ const codes = [
   "a"
 ];
 
+const body = document.
+
 let index = 0;
 
 function onKeyDownHandler(e){
